@@ -1,0 +1,1 @@
+This repository contains the finished data analysis that was done using SQL. The data is originally in CSV format, but using SQL I was able to create a table schema for all six csv files. A variety of methods including the creation of columns, keys, and aggregation were used to gather a wealth of information about the company.
